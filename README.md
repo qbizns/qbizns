@@ -11,7 +11,7 @@ I had a lot of significant professional experiences as a PHP development.
 - 💬 Ask me about: OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
 - ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍎 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸  
--->
+
 <details>
   <summary>Some interesting facts about me!</summary>
   <br>
